@@ -169,8 +169,32 @@
         <mxCell id="ocmlmnkPLiXoLDkhKhnW-60" value="Validate Cart Contents" style="whiteSpace=wrap;html=1;" parent="ocmlmnkPLiXoLDkhKhnW-51" vertex="1">
           <mxGeometry x="150" y="93" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="agEznNJqok29zz3Ys2b5-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="ocmlmnkPLiXoLDkhKhnW-51" source="agEznNJqok29zz3Ys2b5-73" target="agEznNJqok29zz3Ys2b5-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="agEznNJqok29zz3Ys2b5-73" value="Create Order&lt;div&gt;Record&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
           <mxGeometry x="40" y="208" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="agEznNJqok29zz3Ys2b5-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ocmlmnkPLiXoLDkhKhnW-51" source="agEznNJqok29zz3Ys2b5-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="88" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="528" />
+              <mxPoint x="230" y="528" />
+              <mxPoint x="230" y="538" />
+              <mxPoint x="870" y="538" />
+              <mxPoint x="870" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="agEznNJqok29zz3Ys2b5-110" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
+          <mxGeometry x="30" y="308" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="agEznNJqok29zz3Ys2b5-111" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="388" as="targetPoint" />
+            <mxPoint x="80.07692307692287" y="318" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ocmlmnkPLiXoLDkhKhnW-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#a20025;strokeColor=#6F0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ocmlmnkPLiXoLDkhKhnW-50" target="ocmlmnkPLiXoLDkhKhnW-58" edge="1">
           <mxGeometry relative="1" as="geometry">
