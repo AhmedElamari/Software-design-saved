@@ -180,7 +180,7 @@
         </mxCell>
         <mxCell id="agEznNJqok29zz3Ys2b5-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="ocmlmnkPLiXoLDkhKhnW-51" source="agEznNJqok29zz3Ys2b5-110">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="88" as="targetPoint" />
+            <mxPoint x="930" y="88" as="targetPoint" />
             <Array as="points">
               <mxPoint x="180" y="528" />
               <mxPoint x="230" y="528" />
