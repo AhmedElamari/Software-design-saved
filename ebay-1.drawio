@@ -360,16 +360,8 @@
             <mxPoint x="210" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-64" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="TGFcMOlXtu1Z5XWhOxLF-62" parent="TGFcMOlXtu1Z5XWhOxLF-43">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="70" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TGFcMOlXtu1Z5XWhOxLF-65" value="Notification System" style="swimlane;whiteSpace=wrap" vertex="1" parent="1">
           <mxGeometry x="1940" y="82" width="280" height="570" as="geometry" />
-        </mxCell>
-        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-66" value="process&#xa;command" style="" vertex="1" parent="TGFcMOlXtu1Z5XWhOxLF-65">
-          <mxGeometry x="90" y="405" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TGFcMOlXtu1Z5XWhOxLF-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0;entryX=0.25;entryY=0.5;entryPerimeter=0" edge="1" parent="TGFcMOlXtu1Z5XWhOxLF-65">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -380,17 +372,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-68" value="" style="edgeStyle=none;strokeColor=#FF0000;endArrow=open;endFill=1;rounded=0" edge="1" parent="TGFcMOlXtu1Z5XWhOxLF-65" target="TGFcMOlXtu1Z5XWhOxLF-66">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-30" y="429.5" as="sourcePoint" />
-            <mxPoint x="90" y="429.5" as="targetPoint" />
+        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-71" value="Notify payment failure" style="html=1;whiteSpace=wrap;" vertex="1" parent="TGFcMOlXtu1Z5XWhOxLF-65">
+          <mxGeometry x="30" y="508" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-64" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="TGFcMOlXtu1Z5XWhOxLF-62" parent="1" target="TGFcMOlXtu1Z5XWhOxLF-71">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="1730" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1740" y="620" />
+            </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-69" value="" style="ellipse;shape=endState;fillColor=#000000;strokeColor=#ff0000" vertex="1" parent="TGFcMOlXtu1Z5XWhOxLF-65">
-          <mxGeometry x="130" y="500" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-70" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="TGFcMOlXtu1Z5XWhOxLF-65" source="TGFcMOlXtu1Z5XWhOxLF-66" target="TGFcMOlXtu1Z5XWhOxLF-69">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
