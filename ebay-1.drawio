@@ -190,7 +190,7 @@
         <mxCell id="agEznNJqok29zz3Ys2b5-110" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
           <mxGeometry x="30" y="308" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="agEznNJqok29zz3Ys2b5-111" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
+        <mxCell id="agEznNJqok29zz3Ys2b5-111" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="ocmlmnkPLiXoLDkhKhnW-51" target="agEznNJqok29zz3Ys2b5-115">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="388" as="targetPoint" />
             <mxPoint x="80.07692307692287" y="318" as="sourcePoint" />
@@ -272,6 +272,9 @@
           <mxGeometry x="-0.9194" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="agEznNJqok29zz3Ys2b5-115" value="Send Customer&amp;nbsp;&lt;div&gt;order invoice&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="835" y="445" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
