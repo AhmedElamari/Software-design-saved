@@ -142,7 +142,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="agEznNJqok29zz3Ys2b5-95" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="4" source="agEznNJqok29zz3Ys2b5-93" edge="1">
+        <mxCell id="agEznNJqok29zz3Ys2b5-95" value="[stockAvailable]" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" parent="4" source="agEznNJqok29zz3Ys2b5-93" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="70" y="360" as="targetPoint" />
           </mxGeometry>
