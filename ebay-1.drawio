@@ -106,7 +106,7 @@
         <mxCell id="agEznNJqok29zz3Ys2b5-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.851;entryY=0.324;entryDx=0;entryDy=0;entryPerimeter=0;" parent="4" source="agEznNJqok29zz3Ys2b5-77" target="agEznNJqok29zz3Ys2b5-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="agEznNJqok29zz3Ys2b5-93" value="c" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" parent="4" vertex="1">
+        <mxCell id="agEznNJqok29zz3Ys2b5-93" value="Availability?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" parent="4" vertex="1">
           <mxGeometry x="50" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="agEznNJqok29zz3Ys2b5-94" value="[outOfStock]" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="4" source="agEznNJqok29zz3Ys2b5-93" target="agEznNJqok29zz3Ys2b5-98" edge="1">
