@@ -171,6 +171,12 @@
         <mxCell id="v_kuO4fO8GXj2AwPMBaf-55" value="Update Order Status" style="html=1;whiteSpace=wrap;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
           <mxGeometry x="25" y="398" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="v_kuO4fO8GXj2AwPMBaf-62" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;fontColor=default;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
+          <mxGeometry y="478" width="200" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="v_kuO4fO8GXj2AwPMBaf-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.492;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ocmlmnkPLiXoLDkhKhnW-51" source="v_kuO4fO8GXj2AwPMBaf-55" target="v_kuO4fO8GXj2AwPMBaf-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TGFcMOlXtu1Z5XWhOxLF-43" value="Payment Gateway" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="1100" y="82" width="280" height="568" as="geometry" />
         </mxCell>
@@ -276,6 +282,11 @@
               <mxPoint x="1020" y="630" />
               <mxPoint x="1020" y="470" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v_kuO4fO8GXj2AwPMBaf-63" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;fontColor=default;" edge="1" source="v_kuO4fO8GXj2AwPMBaf-62" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
