@@ -222,10 +222,10 @@
           <mxGeometry x="30" y="430" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v_kuO4fO8GXj2AwPMBaf-51" value="[paymentSuccessful]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TGFcMOlXtu1Z5XWhOxLF-43">
-          <mxGeometry x="80" y="400" width="130" height="30" as="geometry" />
+          <mxGeometry x="60" y="400" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="v_kuO4fO8GXj2AwPMBaf-52" value="Authorised &amp;amp; Capture Payment" style="html=1;whiteSpace=wrap;" vertex="1" parent="TGFcMOlXtu1Z5XWhOxLF-43">
-          <mxGeometry x="150" y="425.0033333333333" width="110" height="50" as="geometry" />
+          <mxGeometry x="160" y="425.0033333333333" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v_kuO4fO8GXj2AwPMBaf-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TGFcMOlXtu1Z5XWhOxLF-43" source="TGFcMOlXtu1Z5XWhOxLF-62" target="v_kuO4fO8GXj2AwPMBaf-52">
           <mxGeometry relative="1" as="geometry">
