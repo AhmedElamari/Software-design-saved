@@ -248,7 +248,7 @@
           <mxGeometry x="-10" y="475" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5nKzo7GDHY4XBlp9TRnN-39" value="[orderHeld]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TGFcMOlXtu1Z5XWhOxLF-43">
-          <mxGeometry x="140" y="350" width="80" height="30" as="geometry" />
+          <mxGeometry x="130" y="350" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="agEznNJqok29zz3Ys2b5-47" value="Checkout Use Case" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=37;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="920" y="10" width="350" height="60" as="geometry" />
