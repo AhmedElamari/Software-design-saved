@@ -102,7 +102,7 @@
           <mxGeometry x="40" y="268" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5nKzo7GDHY4XBlp9TRnN-15" value="Log Inventory Update" style="html=1;whiteSpace=wrap;" vertex="1" parent="4">
-          <mxGeometry x="40" y="368" width="110" height="50" as="geometry" />
+          <mxGeometry x="40" y="378" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5nKzo7GDHY4XBlp9TRnN-20" value="Log Stock Issue" style="html=1;whiteSpace=wrap;" vertex="1" parent="4">
           <mxGeometry x="160" y="488" width="110" height="50" as="geometry" />
@@ -327,6 +327,16 @@
               <mxPoint x="800" y="586" />
               <mxPoint x="800" y="630" />
               <mxPoint x="735" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5nKzo7GDHY4XBlp9TRnN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5nKzo7GDHY4XBlp9TRnN-15" target="5nKzo7GDHY4XBlp9TRnN-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1420" y="480" />
+              <mxPoint x="1060" y="480" />
+              <mxPoint x="1060" y="510" />
+              <mxPoint x="1025" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
