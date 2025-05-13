@@ -25,7 +25,14 @@
           <mxGeometry x="20" y="200" width="115" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="2" source="uR4Y5NdSJCiW5M6gI8Ui-12" target="uR4Y5NdSJCiW5M6gI8Ui-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="320" />
+              <mxPoint x="130" y="320" />
+              <mxPoint x="130" y="310" />
+              <mxPoint x="75" y="310" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-12" value="User Selects Payment Method" style="rounded=1;whiteSpace=wrap;html=1;" parent="2" vertex="1">
           <mxGeometry x="150" y="254" width="120" height="60" as="geometry" />
