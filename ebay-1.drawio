@@ -115,37 +115,6 @@
             <mxPoint x="67" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="TGFcMOlXtu1Z5XWhOxLF-43" target="TGFcMOlXtu1Z5XWhOxLF-55" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="205" y="180" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-55" value="Fraud alert?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=light-dark(#100f0f, #ff9090);" parent="TGFcMOlXtu1Z5XWhOxLF-43" vertex="1">
-          <mxGeometry x="100" y="210" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-56" value="[fraudScore&amp;gt;Threshold]" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="TGFcMOlXtu1Z5XWhOxLF-43" source="TGFcMOlXtu1Z5XWhOxLF-55" edge="1">
-          <mxGeometry x="-1" y="-48" relative="1" as="geometry">
-            <mxPoint x="215" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="220" y="230" />
-              <mxPoint x="220" y="268" />
-              <mxPoint x="215" y="268" />
-            </Array>
-            <mxPoint x="-30" y="-10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-57" value="&lt;span&gt;[Fraud Score &amp;lt;= Threshold]&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="TGFcMOlXtu1Z5XWhOxLF-43" edge="1">
-          <mxGeometry x="0.2433" y="-50" relative="1" as="geometry">
-            <mxPoint x="69" y="320" as="targetPoint" />
-            <mxPoint x="138.99999999999955" y="249.99999999999977" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="139" y="268" />
-              <mxPoint x="70" y="268" />
-              <mxPoint x="70" y="320" />
-            </Array>
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TGFcMOlXtu1Z5XWhOxLF-62" value="Approved?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" parent="TGFcMOlXtu1Z5XWhOxLF-43" vertex="1">
           <mxGeometry x="30" y="430" width="80" height="40" as="geometry" />
         </mxCell>
