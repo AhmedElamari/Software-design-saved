@@ -163,13 +163,8 @@
         <mxCell id="v_kuO4fO8GXj2AwPMBaf-74" value="[paymentDeclined]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="TGFcMOlXtu1Z5XWhOxLF-43" vertex="1">
           <mxGeometry x="-10" y="475" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TGFcMOlXtu1Z5XWhOxLF-43" source="v_kuO4fO8GXj2AwPMBaf-35">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="65" y="156" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="v_kuO4fO8GXj2AwPMBaf-35" value="c" style="html=1;whiteSpace=wrap;" parent="TGFcMOlXtu1Z5XWhOxLF-43" vertex="1">
-          <mxGeometry x="85" y="80" width="110" height="50" as="geometry" />
+        <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-50" value="Authorise Payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TGFcMOlXtu1Z5XWhOxLF-43">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="agEznNJqok29zz3Ys2b5-47" value="Checkout Use Case" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=37;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="920" y="10" width="350" height="60" as="geometry" />
@@ -191,8 +186,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uR4Y5NdSJCiW5M6gI8Ui-47" target="v_kuO4fO8GXj2AwPMBaf-35">
+        <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uR4Y5NdSJCiW5M6gI8Ui-47">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1250" y="490" />
               <mxPoint x="1250" y="130" />
