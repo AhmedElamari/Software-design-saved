@@ -130,7 +130,7 @@
         <mxCell id="TGFcMOlXtu1Z5XWhOxLF-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="TGFcMOlXtu1Z5XWhOxLF-43" source="TGFcMOlXtu1Z5XWhOxLF-51" target="TGFcMOlXtu1Z5XWhOxLF-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-51" value="Receive Payment&amp;nbsp;&lt;div&gt;Request&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="TGFcMOlXtu1Z5XWhOxLF-43" vertex="1">
+        <mxCell id="TGFcMOlXtu1Z5XWhOxLF-51" value="Process Payment&amp;nbsp;&lt;div&gt;Request&lt;/div&gt;" style="html=1;whiteSpace=wrap;" parent="TGFcMOlXtu1Z5XWhOxLF-43" vertex="1">
           <mxGeometry x="100" y="48" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TGFcMOlXtu1Z5XWhOxLF-55" value="Fraud alert?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=light-dark(#100f0f, #ff9090);" parent="TGFcMOlXtu1Z5XWhOxLF-43" vertex="1">
