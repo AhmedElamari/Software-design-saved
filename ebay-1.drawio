@@ -46,7 +46,7 @@
           <mxGeometry x="150" y="93" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v_kuO4fO8GXj2AwPMBaf-55" value="Update Order Status" style="html=1;whiteSpace=wrap;" parent="ocmlmnkPLiXoLDkhKhnW-51" vertex="1">
-          <mxGeometry x="15" y="550" width="110" height="50" as="geometry" />
+          <mxGeometry x="10" y="580" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5nKzo7GDHY4XBlp9TRnN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="ocmlmnkPLiXoLDkhKhnW-51" source="5nKzo7GDHY4XBlp9TRnN-19" target="5nKzo7GDHY4XBlp9TRnN-30" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -57,13 +57,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5nKzo7GDHY4XBlp9TRnN-19" value="DIsplay Order Confirmation" style="html=1;whiteSpace=wrap;" parent="ocmlmnkPLiXoLDkhKhnW-51" vertex="1">
-          <mxGeometry x="155" y="550" width="110" height="50" as="geometry" />
+          <mxGeometry x="140" y="600" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5nKzo7GDHY4XBlp9TRnN-30" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" parent="ocmlmnkPLiXoLDkhKhnW-51" vertex="1">
           <mxGeometry x="235" y="643" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-22" value="Record Successful Transaction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
-          <mxGeometry x="145" y="477" width="120" height="60" as="geometry" />
+          <mxGeometry x="135" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-30" value="Process Payment Confirmation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
           <mxGeometry x="15" y="270" width="120" height="60" as="geometry" />
@@ -125,11 +125,6 @@
         </mxCell>
         <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-51" value="" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="TGFcMOlXtu1Z5XWhOxLF-43">
           <mxGeometry x="100" y="180" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="TGFcMOlXtu1Z5XWhOxLF-43" source="uR4Y5NdSJCiW5M6gI8Ui-55">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="80" y="360" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-55" value="Capture Payment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TGFcMOlXtu1Z5XWhOxLF-43">
           <mxGeometry x="20" y="260" width="120" height="60" as="geometry" />
