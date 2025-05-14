@@ -103,7 +103,7 @@
         <mxCell id="gRQSYHAqGpF5qdMIA_KD-16" value="Send Order Confirmation to Customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
           <mxGeometry x="150" y="645" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gRQSYHAqGpF5qdMIA_KD-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#000000;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
+        <mxCell id="gRQSYHAqGpF5qdMIA_KD-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontColor=#000000;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
           <mxGeometry x="50" y="700" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gRQSYHAqGpF5qdMIA_KD-34" value="Display Payment Failure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
