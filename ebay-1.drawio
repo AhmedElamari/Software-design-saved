@@ -95,6 +95,9 @@
         <mxCell id="gRQSYHAqGpF5qdMIA_KD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ocmlmnkPLiXoLDkhKhnW-51" source="uR4Y5NdSJCiW5M6gI8Ui-30" target="uR4Y5NdSJCiW5M6gI8Ui-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gRQSYHAqGpF5qdMIA_KD-12" value="Update Order Status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
+          <mxGeometry x="150" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="TGFcMOlXtu1Z5XWhOxLF-43" value="Payment Gateway" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="1240" y="70" width="280" height="740" as="geometry" />
         </mxCell>
@@ -155,6 +158,9 @@
               <mxPoint x="1380" y="300" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gRQSYHAqGpF5qdMIA_KD-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uR4Y5NdSJCiW5M6gI8Ui-55" target="gRQSYHAqGpF5qdMIA_KD-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
