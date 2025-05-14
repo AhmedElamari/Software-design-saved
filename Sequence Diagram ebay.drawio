@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-3" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="280" y="40" width="20" height="300" as="geometry" />
+          <mxGeometry x="280" y="50" width="20" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
