@@ -42,7 +42,19 @@
           <mxGeometry x="265" y="30" width="100" height="510" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-19" value="Order" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="375" y="30" width="110.87" height="510" as="geometry" />
+          <mxGeometry x="375" y="30" width="110.87" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-66" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="kN1TvL-AGW_TWXCYKgNe-19">
+          <mxGeometry x="50.44" y="460" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-67" value="inItDelivery(orderID)" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="kN1TvL-AGW_TWXCYKgNe-66" parent="kN1TvL-AGW_TWXCYKgNe-19">
+          <mxGeometry x="0.892" y="-10" relative="1" as="geometry">
+            <mxPoint x="55" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="490" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-20" value="Payment" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="505" y="30" width="100" height="520" as="geometry" />
@@ -205,6 +217,20 @@
           <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
             <mxPoint x="19" y="-6" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-62" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425.00043478260864" y="480.29565217391314" as="sourcePoint" />
+            <mxPoint x="794.37" y="479.99565217391313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-63" value="updateStock(qty)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kN1TvL-AGW_TWXCYKgNe-62">
+          <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
+            <mxPoint x="19" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-64" value="InventorySystem" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="740" y="30" width="100" height="520" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
