@@ -89,14 +89,23 @@
         <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-47" value="Send Request to PaymentGateway" style="rounded=1;whiteSpace=wrap;html=1;" parent="ocmlmnkPLiXoLDkhKhnW-51" vertex="1">
           <mxGeometry x="160" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gV2vBV49zzsocz9U8svt-8" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=light-dark(#000000, #ff9090);" parent="ocmlmnkPLiXoLDkhKhnW-51" vertex="1">
-          <mxGeometry x="219" y="600" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="gRQSYHAqGpF5qdMIA_KD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=0.233;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ocmlmnkPLiXoLDkhKhnW-51" source="uR4Y5NdSJCiW5M6gI8Ui-30" target="uR4Y5NdSJCiW5M6gI8Ui-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRQSYHAqGpF5qdMIA_KD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ocmlmnkPLiXoLDkhKhnW-51" source="gRQSYHAqGpF5qdMIA_KD-12" target="gRQSYHAqGpF5qdMIA_KD-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gRQSYHAqGpF5qdMIA_KD-12" value="Update Order Status" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
           <mxGeometry x="150" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRQSYHAqGpF5qdMIA_KD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ocmlmnkPLiXoLDkhKhnW-51" source="gRQSYHAqGpF5qdMIA_KD-14" target="gRQSYHAqGpF5qdMIA_KD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gRQSYHAqGpF5qdMIA_KD-14" value="Update Stock Level" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
+          <mxGeometry x="15" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gRQSYHAqGpF5qdMIA_KD-16" value="Send Order Confirmation to Customer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
+          <mxGeometry x="150" y="645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGFcMOlXtu1Z5XWhOxLF-43" value="Payment Gateway" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="1240" y="70" width="280" height="740" as="geometry" />
