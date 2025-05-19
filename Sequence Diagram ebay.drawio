@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2111" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="HF9BvkSXhrn5gTn5HDKa-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kN1TvL-AGW_TWXCYKgNe-13" vertex="1">
           <mxGeometry x="45" y="100" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-80" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kN1TvL-AGW_TWXCYKgNe-13" vertex="1">
+          <mxGeometry x="45" y="490" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-18" value="shoppingCart:ShoppingCart" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="-160" y="70" width="160" height="600" as="geometry" />
@@ -100,38 +103,13 @@
         <mxCell id="HF9BvkSXhrn5gTn5HDKa-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kN1TvL-AGW_TWXCYKgNe-64" vertex="1">
           <mxGeometry x="45" y="440" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kN1TvL-AGW_TWXCYKgNe-69" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="9.5" y="570.1304347826087" as="sourcePoint" />
-            <mxPoint x="-240" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kN1TvL-AGW_TWXCYKgNe-70" value="confirmationNum" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kN1TvL-AGW_TWXCYKgNe-69" vertex="1" connectable="0">
-          <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
-            <mxPoint x="-10" y="-14" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kN1TvL-AGW_TWXCYKgNe-78" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-78" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" source="kN1TvL-AGW_TWXCYKgNe-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-317.9999999999998" y="580.4285714285716" as="sourcePoint" />
             <mxPoint x="-426" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kN1TvL-AGW_TWXCYKgNe-81" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" target="kN1TvL-AGW_TWXCYKgNe-80" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-250" y="580" as="sourcePoint" />
-            <mxPoint x="-363" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kN1TvL-AGW_TWXCYKgNe-82" value="displayConfirmation()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kN1TvL-AGW_TWXCYKgNe-81" vertex="1" connectable="0">
-          <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
-            <mxPoint x="-119" y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kN1TvL-AGW_TWXCYKgNe-80" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="-255" y="550" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kN1TvL-AGW_TWXCYKgNe-85" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-85" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1" source="kN1TvL-AGW_TWXCYKgNe-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-322" y="610.24" as="sourcePoint" />
             <mxPoint x="-430" y="610.24" as="targetPoint" />
@@ -142,15 +120,15 @@
             <mxPoint x="26" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kN1TvL-AGW_TWXCYKgNe-87" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-87" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-362.99956521739136" y="639.9956521739132" as="sourcePoint" />
-            <mxPoint x="-250" y="640" as="targetPoint" />
+            <mxPoint x="-421" y="640.3400000000001" as="sourcePoint" />
+            <mxPoint x="-255" y="640.05" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-88" value="reattemptPayment()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kN1TvL-AGW_TWXCYKgNe-87" vertex="1" connectable="0">
           <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
-            <mxPoint x="-63" y="-6" as="offset" />
+            <mxPoint x="19" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-93" value="&amp;lt;&amp;lt;eBay POS&amp;gt;&amp;gt; UC- 04 Checkout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
@@ -237,6 +215,9 @@
         </mxCell>
         <mxCell id="Sw7p4tAm8NIHKgo4iLP5-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="-255" y="380" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-21" value="displayConfirmation()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="550" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
