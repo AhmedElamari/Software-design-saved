@@ -219,6 +219,26 @@
         <mxCell id="Sw7p4tAm8NIHKgo4iLP5-21" value="displayConfirmation()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-413" y="550" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-22" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="Sw7p4tAm8NIHKgo4iLP5-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-424.99956521739136" y="420.3256521739131" as="sourcePoint" />
+            <mxPoint x="-250" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-25" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" target="Sw7p4tAm8NIHKgo4iLP5-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-424.99956521739136" y="420.3256521739131" as="sourcePoint" />
+            <mxPoint x="-250" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-26" value="selectPaymentMethod(methodDetails)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="Sw7p4tAm8NIHKgo4iLP5-25">
+          <mxGeometry x="-0.1517" y="9" relative="1" as="geometry">
+            <mxPoint x="13" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="-255" y="420" width="10" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
