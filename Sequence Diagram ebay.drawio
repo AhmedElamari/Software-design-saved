@@ -21,7 +21,7 @@
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#000000;imageWidth=6;" parent="1" vertex="1">
           <mxGeometry x="-423" y="160" width="4" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="kN1TvL-AGW_TWXCYKgNe-8" value="initateOrder()" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" parent="1" edge="1">
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-8" value="initiateCheckout()" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="-0.0868" width="60" relative="1" as="geometry">
             <mxPoint x="-417.5" y="170" as="sourcePoint" />
             <mxPoint x="-247.9999999999999" y="170" as="targetPoint" />
