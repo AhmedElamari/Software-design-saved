@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="996" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1051" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kN1TvL-AGW_TWXCYKgNe-25" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-25" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1" target="kN1TvL-AGW_TWXCYKgNe-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="181.00043478260864" y="179.99565217391313" as="sourcePoint" />
             <mxPoint x="365.5000000000001" y="180.17647058823536" as="targetPoint" />
@@ -35,10 +35,10 @@
           <mxGeometry x="45" y="100" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-18" value="shoppingCart:ShoppingCart" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="320" y="70" width="100" height="570" as="geometry" />
+          <mxGeometry x="270" y="70" width="160" height="600" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-72" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kN1TvL-AGW_TWXCYKgNe-18" vertex="1">
-          <mxGeometry x="45" y="110" width="10" height="30" as="geometry" />
+          <mxGeometry x="75" y="110" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-19" value="checkout: Checkout" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="474.13" y="70" width="110.87" height="570" as="geometry" />
@@ -162,9 +162,9 @@
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-93" value="&amp;lt;&amp;lt;eBay POS&amp;gt;&amp;gt; UC- 04 Checkout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="290" y="10" width="320" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-1" value="cartItems()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-1" value="cartItems()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" edge="1" parent="1" source="kN1TvL-AGW_TWXCYKgNe-72">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="366.09000000000003" y="210" as="sourcePoint" />
+            <mxPoint x="340" y="210" as="sourcePoint" />
             <mxPoint x="186" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
