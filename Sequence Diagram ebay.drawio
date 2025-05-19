@@ -138,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-93" value="&amp;lt;&amp;lt;eBay POS&amp;gt;&amp;gt; UC- 04 Checkout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="10" width="320" height="40" as="geometry" />
+          <mxGeometry x="-70" y="10" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Sw7p4tAm8NIHKgo4iLP5-1" value="cartItems()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;dashed=1;" parent="1" source="kN1TvL-AGW_TWXCYKgNe-72" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
