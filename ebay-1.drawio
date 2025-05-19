@@ -46,7 +46,7 @@
           <mxGeometry x="10" y="48" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ocmlmnkPLiXoLDkhKhnW-60" value="Display Order Summary" style="whiteSpace=wrap;html=1;" parent="ocmlmnkPLiXoLDkhKhnW-51" vertex="1">
-          <mxGeometry x="160" y="103" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uR4Y5NdSJCiW5M6gI8Ui-30" value="Process Payment Confirmation" style="rounded=1;whiteSpace=wrap;html=1;" parent="ocmlmnkPLiXoLDkhKhnW-51" vertex="1">
           <mxGeometry x="15" y="270" width="120" height="60" as="geometry" />
@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5IQpqtjyxT1ot1ysbRe6-9" value="Calculate total &amp;amp; tax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ocmlmnkPLiXoLDkhKhnW-51">
-          <mxGeometry x="160" y="43" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="38" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TGFcMOlXtu1Z5XWhOxLF-43" value="Payment Gateway" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
           <mxGeometry x="1240" y="70" width="280" height="830" as="geometry" />
