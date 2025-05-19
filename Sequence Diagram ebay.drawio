@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1963" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2201" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
           <mxGeometry x="50.44" y="160" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="kN1TvL-AGW_TWXCYKgNe-19">
-          <mxGeometry x="50.44" y="628" width="10" height="140" as="geometry" />
+          <mxGeometry x="50.44" y="628" width="10" height="162" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-23" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
           <mxGeometry x="415" y="70" width="20" height="830" as="geometry" />
@@ -100,6 +100,31 @@
         </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="kN1TvL-AGW_TWXCYKgNe-64">
           <mxGeometry x="45" y="540" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-42" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="kN1TvL-AGW_TWXCYKgNe-64">
+          <mxGeometry x="45" y="768.33" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-43" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="kN1TvL-AGW_TWXCYKgNe-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-125" y="768.33" as="sourcePoint" />
+            <mxPoint x="46" y="768.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-44" value="updateStock(quantity)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-43">
+          <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
+            <mxPoint x="19" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-45" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="kN1TvL-AGW_TWXCYKgNe-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="46.268333333332976" y="788.33" as="sourcePoint" />
+            <mxPoint x="-125" y="788.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-46" value="trackingNum" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-45">
+          <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
+            <mxPoint x="-11" y="-14" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-87" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
