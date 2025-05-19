@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1846" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2305" dy="971" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,7 +70,7 @@
           <mxGeometry x="50.44" y="628" width="10" height="140" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-23" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
-          <mxGeometry x="230" y="70" width="20" height="830" as="geometry" />
+          <mxGeometry x="415" y="70" width="20" height="830" as="geometry" />
         </mxCell>
         <mxCell id="Sw7p4tAm8NIHKgo4iLP5-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kN1TvL-AGW_TWXCYKgNe-23" vertex="1">
           <mxGeometry x="5" y="210" width="10" height="20" as="geometry" />
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-64" value="product:Product" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="310" y="70" width="100" height="830" as="geometry" />
+          <mxGeometry x="230" y="70" width="100" height="830" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-87" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -158,10 +158,10 @@
             <mxPoint x="-5" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1" source="kN1TvL-AGW_TWXCYKgNe-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="104.57043478260869" y="280.3156521739131" as="sourcePoint" />
-            <mxPoint x="239.44000000000005" y="280.3156521739131" as="targetPoint" />
+            <mxPoint x="290.0004347826087" y="279.99565217391313" as="sourcePoint" />
+            <mxPoint x="424.87000000000006" y="279.99565217391313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sw7p4tAm8NIHKgo4iLP5-12" value="calculateTax(subtotal)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Sw7p4tAm8NIHKgo4iLP5-11" vertex="1" connectable="0">
@@ -171,8 +171,8 @@
         </mxCell>
         <mxCell id="Sw7p4tAm8NIHKgo4iLP5-14" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="239.5" y="300.45043478260874" as="sourcePoint" />
-            <mxPoint x="106" y="300" as="targetPoint" />
+            <mxPoint x="431.5" y="300.45043478260874" as="sourcePoint" />
+            <mxPoint x="104.73166666666702" y="300.33333333333326" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sw7p4tAm8NIHKgo4iLP5-15" value="taxAmount" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Sw7p4tAm8NIHKgo4iLP5-14" vertex="1" connectable="0">
@@ -225,21 +225,21 @@
             <mxPoint x="13" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-37" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;exitX=1.458;exitY=0.139;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-37" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;exitX=1.458;exitY=0.139;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="kN1TvL-AGW_TWXCYKgNe-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="106.28000000000009" y="491.8499999999999" as="sourcePoint" />
             <mxPoint x="232" y="490.99565217391313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-38" value="processPayment(checkout:totalAmount, paymentInfo)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" parent="Sw7p4tAm8NIHKgo4iLP5-37" vertex="1" connectable="0">
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-38" value="processPayment(checkout:totalAmount, paymentInfo)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" parent="Sw7p4tAm8NIHKgo4iLP5-37" vertex="1" connectable="0">
           <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
-            <mxPoint x="13" y="-6" as="offset" />
+            <mxPoint x="33" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-2" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="510.13043478260875" as="sourcePoint" />
-            <mxPoint x="100.5" y="510" as="targetPoint" />
+            <mxPoint x="419" y="510.46043478260873" as="sourcePoint" />
+            <mxPoint x="102.73166666666702" y="511" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-3" value="paymentStatus" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-2">
@@ -346,21 +346,21 @@
             <mxPoint x="19" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-26" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="mtO_gDQZqmRhvzvz-Wwp-22">
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-26" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="109.28" y="710.8543478260867" as="sourcePoint" />
-            <mxPoint x="234.99999999999991" y="710" as="targetPoint" />
+            <mxPoint x="105.00000000000017" y="710.0033333333332" as="sourcePoint" />
+            <mxPoint x="424.93" y="710.0033333333332" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-27" value="processPayment(checkout:totalAmount, paymentInfo)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-26">
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-27" value="processPayment(checkout:totalAmount, paymentInfo)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-26">
           <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
-            <mxPoint x="13" y="-6" as="offset" />
+            <mxPoint x="44" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-28" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="234.07" y="730.4604347826088" as="sourcePoint" />
-            <mxPoint x="104.57" y="730.33" as="targetPoint" />
+            <mxPoint x="415" y="730.4604347826088" as="sourcePoint" />
+            <mxPoint x="285.5" y="730.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-29" value="paymentStatus" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-28">
