@@ -64,7 +64,7 @@
           <mxGeometry x="51.44" y="380" width="10" height="230" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-73" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kN1TvL-AGW_TWXCYKgNe-19" vertex="1">
-          <mxGeometry x="51.44" y="160" width="10" height="110" as="geometry" />
+          <mxGeometry x="51.44" y="160" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kN1TvL-AGW_TWXCYKgNe-19" vertex="1">
           <mxGeometry x="51.44" y="628" width="10" height="22" as="geometry" />
