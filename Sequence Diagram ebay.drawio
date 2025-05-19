@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1751" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,10 +259,24 @@
           <mxGeometry x="-1" y="11" relative="1" as="geometry">
             <mxPoint x="105" y="535" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="130" y="565" />
+              <mxPoint x="130" y="535" />
+              <mxPoint x="130" y="550" />
+              <mxPoint x="105" y="550" />
             </Array>
-            <mxPoint x="105" y="565" as="targetPoint" />
+            <mxPoint x="105" y="550" as="targetPoint" />
             <mxPoint x="-5" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-5" value="generateInvoice()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="104" y="560" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="129" y="560" />
+              <mxPoint x="129" y="575" />
+              <mxPoint x="104" y="575" />
+            </Array>
+            <mxPoint x="104" y="575" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
