@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1963" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1901" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -333,17 +333,6 @@
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-12" value="paymentFailure(reason)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-11">
           <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
             <mxPoint x="-22" y="-14" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-14" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-290" y="480.2900000000002" as="sourcePoint" />
-            <mxPoint x="-124" y="480" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-15" value="triggerConfirmPayment()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-14">
-          <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
-            <mxPoint x="19" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-16" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
