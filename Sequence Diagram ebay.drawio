@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="2427" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1846" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -366,6 +366,42 @@
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-29" value="paymentStatus" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-28">
           <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
             <mxPoint x="-11" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-30" value="setStatus(&quot;Paid&quot;)" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" y="11" relative="1" as="geometry">
+            <mxPoint x="104.95" y="754" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="129.95" y="754" />
+              <mxPoint x="129.95" y="769" />
+              <mxPoint x="104.95" y="769" />
+            </Array>
+            <mxPoint x="104.95" y="769" as="targetPoint" />
+            <mxPoint x="-5" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-32" value="generateInvoice()" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="105" y="780" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="780" />
+              <mxPoint x="130" y="795" />
+              <mxPoint x="105" y="795" />
+            </Array>
+            <mxPoint x="105" y="795" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-33" value="invoiceDetails" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="105" y="805" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="805" />
+              <mxPoint x="130" y="820" />
+              <mxPoint x="105" y="820" />
+            </Array>
+            <mxPoint x="105" y="820" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
