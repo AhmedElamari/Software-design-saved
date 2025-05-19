@@ -255,6 +255,16 @@
             <mxPoint x="-11" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-4" value="setStatus(&quot;Paid&quot;)" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" y="11" relative="1" as="geometry">
+            <mxPoint x="105" y="535" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="130" y="565" />
+            </Array>
+            <mxPoint x="105" y="565" as="targetPoint" />
+            <mxPoint x="-5" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
