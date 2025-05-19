@@ -35,7 +35,7 @@
           <mxGeometry x="45" y="100" width="10" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Sw7p4tAm8NIHKgo4iLP5-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="kN1TvL-AGW_TWXCYKgNe-13" vertex="1">
-          <mxGeometry x="45" y="380" width="10" height="200" as="geometry" />
+          <mxGeometry x="45" y="380" width="10" height="230" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-18" value="shoppingCart:ShoppingCart" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="-160" y="70" width="160" height="830" as="geometry" />
@@ -315,6 +315,32 @@
             </Array>
             <mxPoint x="-245" y="635" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-10" value="displayPaymentFailure(reason)" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-245" y="660" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-220" y="660" />
+              <mxPoint x="-220" y="675" />
+              <mxPoint x="-245" y="675" />
+            </Array>
+            <mxPoint x="-245" y="675" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="91" y="650.1304347826087" as="sourcePoint" />
+            <mxPoint x="-245" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="195.5" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-12" value="paymentFailure(reason)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-11">
+          <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
+            <mxPoint x="-22" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
