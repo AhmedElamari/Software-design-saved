@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1901" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2427" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -346,9 +346,6 @@
             <mxPoint x="19" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-25" value="processPayment(checkout:totalAmount, paymentInfo)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="200" y="500" as="geometry" />
-        </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-26" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="mtO_gDQZqmRhvzvz-Wwp-22">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="109.28" y="710.8543478260867" as="sourcePoint" />
@@ -358,6 +355,17 @@
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-27" value="processPayment(checkout:totalAmount, paymentInfo)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-26">
           <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
             <mxPoint x="13" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-28" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="234.07" y="730.4604347826088" as="sourcePoint" />
+            <mxPoint x="104.57" y="730.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-29" value="paymentStatus" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mtO_gDQZqmRhvzvz-Wwp-28">
+          <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
+            <mxPoint x="-11" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
