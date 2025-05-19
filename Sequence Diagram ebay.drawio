@@ -224,15 +224,15 @@
             <mxPoint x="-19" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-18" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" target="kN1TvL-AGW_TWXCYKgNe-13">
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-18" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-429.99956521739136" y="389.99565217391313" as="sourcePoint" />
-            <mxPoint x="-317.9999999999998" y="390.42857142857156" as="targetPoint" />
+            <mxPoint x="-429.99956521739136" y="380.3256521739131" as="sourcePoint" />
+            <mxPoint x="-250.5" y="379.9966666666667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sw7p4tAm8NIHKgo4iLP5-19" value="selectShippingAddress(methodDetails)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="Sw7p4tAm8NIHKgo4iLP5-18">
           <mxGeometry x="-0.1517" y="9" relative="1" as="geometry">
-            <mxPoint x="14" y="-1" as="offset" />
+            <mxPoint x="16" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Sw7p4tAm8NIHKgo4iLP5-16" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
