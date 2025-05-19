@@ -316,7 +316,7 @@
             <mxPoint x="180" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kN1TvL-AGW_TWXCYKgNe-88" value="reattemptPayment()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kN1TvL-AGW_TWXCYKgNe-87" vertex="1" connectable="0">
+        <mxCell id="kN1TvL-AGW_TWXCYKgNe-88" value="retryPayment()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kN1TvL-AGW_TWXCYKgNe-87" vertex="1" connectable="0">
           <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
             <mxPoint y="-6" as="offset" />
           </mxGeometry>
