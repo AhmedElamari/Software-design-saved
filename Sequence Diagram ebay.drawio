@@ -65,7 +65,7 @@
             <mxPoint x="-103.13" y="229.99565217391313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-3" value="&amp;lt;&amp;lt;create&amp;gt;&amp;gt; Order(A_customer, products(Product,int)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kN1TvL-AGW_TWXCYKgNe-31" vertex="1" connectable="0">
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-3" value="&amp;lt;&amp;lt;create&amp;gt;&amp;gt; Order(A_customer, items)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="kN1TvL-AGW_TWXCYKgNe-31" vertex="1" connectable="0">
           <mxGeometry x="0.2976" relative="1" as="geometry">
             <mxPoint x="-31" y="-10" as="offset" />
           </mxGeometry>
