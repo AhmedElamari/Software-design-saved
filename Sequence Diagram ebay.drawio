@@ -205,7 +205,7 @@
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-2" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="530.0004347826087" as="sourcePoint" />
-            <mxPoint x="9.170000000000055" y="530.2986206896551" as="targetPoint" />
+            <mxPoint x="20" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-3" value="setStatus(&quot;Paid&quot;, status)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mtO_gDQZqmRhvzvz-Wwp-2" vertex="1" connectable="0">
