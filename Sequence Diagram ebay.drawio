@@ -340,7 +340,7 @@
             <mxPoint x="-22" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nH1G99oQ00qSDfp580w2-5" value="updateStock(quantity)" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1" source="mtO_gDQZqmRhvzvz-Wwp-34">
+        <mxCell id="nH1G99oQ00qSDfp580w2-5" value="updateStockLevel(quantity)" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1" source="mtO_gDQZqmRhvzvz-Wwp-34">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="265" y="580" as="sourcePoint" />
             <Array as="points">
