@@ -351,7 +351,7 @@
           <mxGeometry x="405" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-24" value="paymentHandler:Payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="400" y="85" width="130" height="20" as="geometry" />
+          <mxGeometry x="395" y="90" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
