@@ -303,17 +303,6 @@
             <mxPoint x="19" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-38" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="261.828333333333" y="590.09" as="sourcePoint" />
-            <mxPoint x="20" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-39" value="trackingNum" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mtO_gDQZqmRhvzvz-Wwp-38" vertex="1" connectable="0">
-          <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
-            <mxPoint x="-11" y="-14" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ykOPbRQtEB0h3hrjc40J-13" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-237.99956521739136" y="459.8156521739131" as="sourcePoint" />
