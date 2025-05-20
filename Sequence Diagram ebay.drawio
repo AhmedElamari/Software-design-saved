@@ -358,7 +358,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nH1G99oQ00qSDfp580w2-6" value="Paid" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-237" y="520" width="707" height="111" as="geometry" />
+          <mxGeometry x="-236" y="490" width="707" height="141" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
