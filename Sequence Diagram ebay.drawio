@@ -287,7 +287,7 @@
             <mxPoint x="10" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ykOPbRQtEB0h3hrjc40J-14" value="confirmPayment(paymentInfo, shippingAddress)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="ykOPbRQtEB0h3hrjc40J-13" vertex="1" connectable="0">
+        <mxCell id="ykOPbRQtEB0h3hrjc40J-14" value="paymentInfo, shippingAddress" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="ykOPbRQtEB0h3hrjc40J-13" vertex="1" connectable="0">
           <mxGeometry x="-0.1517" y="9" relative="1" as="geometry">
             <mxPoint x="13" y="-1" as="offset" />
           </mxGeometry>
@@ -346,6 +346,21 @@
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-24" value="paymentHandler:Payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="400" y="110" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd_AoQfoZdAyEwuk2Ngl-1" value="&lt;span style=&quot;font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;confirmPayment(paymentInfo, shippingAddress)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="430" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gd_AoQfoZdAyEwuk2Ngl-2" value="" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="20" y="460" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="45" y="460" />
+              <mxPoint x="45" y="475" />
+              <mxPoint x="20" y="475" />
+            </Array>
+            <mxPoint x="20" y="475" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
