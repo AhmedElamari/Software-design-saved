@@ -220,6 +220,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-7" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="600" as="sourcePoint" />
+            <mxPoint x="-238" y="600" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mtO_gDQZqmRhvzvz-Wwp-8" value="confirmationDetails(orderID,trackingNum,invoice)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mtO_gDQZqmRhvzvz-Wwp-7" vertex="1" connectable="0">
+          <mxGeometry x="-0.2395" y="4" relative="1" as="geometry">
+            <mxPoint x="-22" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-11" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="468" y="650.1304347826087" as="sourcePoint" />
@@ -235,15 +247,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-9" value="displayConfirmation(confirmationDetails)" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry x="-0.3412" y="20" relative="1" as="geometry">
+          <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="-238" y="610" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-238" y="600" />
-              <mxPoint x="-213" y="600" />
+              <mxPoint x="-213" y="610" />
               <mxPoint x="-213" y="625" />
+              <mxPoint x="-238" y="625" />
             </Array>
             <mxPoint x="-238" y="625" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mtO_gDQZqmRhvzvz-Wwp-10" value="displayPaymentFailure(reason)" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
@@ -275,7 +287,7 @@
             <mxPoint x="10" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ykOPbRQtEB0h3hrjc40J-14" value="paymentInfo, shippingAddress" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="ykOPbRQtEB0h3hrjc40J-13" vertex="1" connectable="0">
+        <mxCell id="ykOPbRQtEB0h3hrjc40J-14" value="confirmPayment(paymentInfo, shippingAddress)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="ykOPbRQtEB0h3hrjc40J-13" vertex="1" connectable="0">
           <mxGeometry x="-0.1517" y="9" relative="1" as="geometry">
             <mxPoint x="13" y="-1" as="offset" />
           </mxGeometry>
