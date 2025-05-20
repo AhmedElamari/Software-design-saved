@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1901" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1751" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
             <mxPoint x="-243.5" y="379.9966666666667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-19" value="selectShippingAddress(methodDetails)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="Sw7p4tAm8NIHKgo4iLP5-18" vertex="1" connectable="0">
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-19" value="1. Customer selects shipping method" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="Sw7p4tAm8NIHKgo4iLP5-18" vertex="1" connectable="0">
           <mxGeometry x="-0.1517" y="9" relative="1" as="geometry">
             <mxPoint x="16" y="-1" as="offset" />
           </mxGeometry>
@@ -157,7 +157,7 @@
             <mxPoint x="-243" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-26" value="selectPaymentMethod(methodDetails)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="Sw7p4tAm8NIHKgo4iLP5-25" vertex="1" connectable="0">
+        <mxCell id="Sw7p4tAm8NIHKgo4iLP5-26" value="2. Customer selects payment method" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" parent="Sw7p4tAm8NIHKgo4iLP5-25" vertex="1" connectable="0">
           <mxGeometry x="-0.1517" y="9" relative="1" as="geometry">
             <mxPoint x="13" y="-1" as="offset" />
           </mxGeometry>
