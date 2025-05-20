@@ -67,9 +67,6 @@
         <mxCell id="nH1G99oQ00qSDfp580w2-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="kN1TvL-AGW_TWXCYKgNe-23">
           <mxGeometry x="5" y="210" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nH1G99oQ00qSDfp580w2-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kN1TvL-AGW_TWXCYKgNe-24" target="nH1G99oQ00qSDfp580w2-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-31" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" parent="1" target="kN1TvL-AGW_TWXCYKgNe-73" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-237.99956521739136" y="229.99565217391313" as="sourcePoint" />
@@ -351,7 +348,7 @@
           <mxGeometry x="405" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-24" value="paymentHandler:Payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="395" y="90" width="130" height="20" as="geometry" />
+          <mxGeometry x="400" y="90" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
