@@ -344,9 +344,6 @@
         <mxCell id="Sw7p4tAm8NIHKgo4iLP5-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="460" y="490" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nH1G99oQ00qSDfp580w2-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="70" width="115" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="kN1TvL-AGW_TWXCYKgNe-24" value="paymentHandler:Payment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" parent="1" vertex="1">
           <mxGeometry x="400" y="90" width="130" height="20" as="geometry" />
         </mxCell>
